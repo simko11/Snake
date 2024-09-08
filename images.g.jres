@@ -1,0 +1,86 @@
+{
+    "image6": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "meinBild"
+    },
+    "hi[a7*-aFY|;dfp6HL34": {
+        "data": "hwQQABAAAAB1d3d3d3d3d3d3dyIiInJ3dXcnIiIiInd3dyIiIiIicncnIiIiIiIidyciIiIiIiJ3JyIiIiIiIucuIiIiIiIificiIv8vIiJ3JyIiPy8iIncnIiI/LyIid3ciIjIiInJ3dycyMyIid3d3dz8iInJ3d3d3N3d3d3d3d3d3d3d3VQ==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Apple"
+    },
+    "image7": {
+        "data": "hwQQABAAAAAAAAAAAAAiAAAgIiIiIvL/AJKZmfIi8vsAkpmZIiLy/wCSmZkiIgIAAJKZmSIiAgAAIiIiIiICAACSmZnyIgIAAJKZmSIiAgAAkpmZIiICAAAimZkiIgIAAACSmSIi8v8AACCZIiLy+wAAICIiUfL/AAAAAAAAIgAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Car-Right"
+    },
+    "image8": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAP8PAADw/wBQIiIiIiIiAhCSmSIiIiICIJKZIiIiIgIgkpkiIiIiAiCSmSIiIiICIJKZIiIiIgIgkpkiIiIiAiCSmSIiIiICEJKZIiIiIgJQIiIiIiIiAgD/DwAA8P8AAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "meinBild0"
+    },
+    "image1": {
+        "data": "hwQQABAAAACIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIjxiIiIiIiIiP+IiIiIiICIiIiIiIgIAIiIiIiIiAAAgIiIiIMAAAAAAAAAAwAAAAAAAAADAAAAAAAAMDAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Head_right"
+    },
+    "image3": {
+        "data": "hwQQABAAAAAAAAAAMDAAAAAAAAAAAwAAAAAAAAADAAAAgIiIiIMAAACIiIiIiIgAgIiIiIiIiAiIiP+IiIiIiIiI8YiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Head_left"
+    },
+    "image4": {
+        "data": "hwQQABAAAAAAAACIiIiIiAAAgIiIiIiIAACIiIiIiIgAgIiIiIiIiACAiB+IiIiIAICI/4iIiIgAgIiIiIiIiACAiIiIiIiIAICIiIiIiIgDgIiIiIiIiDAziIiIiIiIA4CIiIiIiIgAAIiIiIiIiAAAiIiIiIiIAACAiIiIiIgAAACIiIiIiA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Head_up"
+    },
+    "image5": {
+        "data": "hwQQABAAAACIiIiIiAAAAIiIiIiICAAAiIiIiIiIAACIiIiIiIgIAIiIiIjxiAgAiIiIiP+ICACIiIiIiIgIAIiIiIiIiAgAiIiIiIiICACIiIiIiIgIMIiIiIiIiDMDiIiIiIiICDCIiIiIiIgAAIiIiIiIiAAAiIiIiIgIAACIiIiIiAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Head_down"
+    },
+    "image2": {
+        "data": "hwQQABAAAACIiIiIiIiIiGhmiIhmhoiIaGiIiIaGiIhoZoiIZoaIiIiIiIiIiIiIiIiIiIiIZoaIiIiIiIiGhoiIiIiIiGaGiIiIiIiIiIiIiGhmiIiIiIiIaGiIZoaIiIhoZoiGhohoZoiIiGaGiGhoiIiIiIiIaGaIiIiIiIiIiIiIiIiIiA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Body_Horizontal"
+    },
+    "anim2": {
+        "namespace": "myAnimations",
+        "id": "anim2",
+        "mimeType": "application/mkcd-animation",
+        "data": "OTYwMDEwMDAxMDAwMDIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDIwMjIyMjIyMjIwMDAwMDAyMDk5Mjk5OTk5MDIwMDAwOTI5OTI5OTk5OTAyMDAyMjk5OTkyOTk5OTkwMjAwOTI5OTk5Mjk5OTk5MDIwMDkyOTk5OTI5OTk5OTAyMDAyMjIyMjIyMjIyMjIwMjAwMjIyMjIyMmYyMmYyMDIwMDIxMjIyMjIyMjIyMjAyMDAyNTIyMjIyMjIyMjIwMjIwMjIyMjIyMjIyMjIyMjIyMGZmMGYwMDAwMDBmZjJmMDBiZjBmMDAwMDAwYmYwZjAwZmYwZjAwMDAwMGZmMGYwMDAwMDAwMDAwMDAwMDAwMDAwMDIwMjIyMjIyMjIwMDAwMDAyMDk5Mjk5OTk5MDIwMDAwOTI5OTI5OTk5OTAyMDAyMjk5OTkyOTk5OTkwMjAwOTI5OTk5Mjk5OTk5MDIwMDkyOTk5OTI5OTk5OTAyMDAyMjIyMjIyMjIyMjIwMjAwMjIyMjIyMmYyMmYyMDIwMDIxMjIyMjIyMjIyMjAyMDAyNTIyMjIyMjIyMjIwMjIwMjIyMjIyMjIyMjIyMjIyMGZmMGYwMDAwMDBmZjJmMDBiZjBmMDAwMDAwYmYwZjAwYmYwZjAwMDAwMGJmMGYwMGZmMGYwMDAwMDBmZjBm",
+        "displayName": "Car-Drive-Left"
+    },
+    "anim3": {
+        "namespace": "myAnimations",
+        "id": "anim3",
+        "mimeType": "application/mkcd-animation",
+        "data": "OTYwMDEwMDAxMDAwMDIwMDAwMDAwMDAwMDAwMDAwMDAwMDUwMjEyMjIyMTIwNTAwMDAyZjIyMjIyMjIyZjIwMDAwMmY5OTk5OTk5OWYyMDAwMDJmOTk5OTk5OTlmMjAwMDAyMDk5OTk5OTk5MDIwMDAwMjAyMjIyMjIyMjAyMDAwMDIwMjIyMjIyMjIwMjAwMDAyMDIyMjIyMjIyMDIwMDAwMjAyMjIyMjIyMjAyMDAwMDIwMjIyMjIyMjIwMjAwMDAyZjIyMjIyMjIyZjIwMDAwMmYyMjIyMjIyMmYyMDAwMDJmMjIyMjIyMjJmMjAwMDAyMDIyMjIyMjIyMDIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDE1MjIyMjIyNTEwMDAwZjAyMjIyMjIyMjIyMGYwMGYwOTI5OTk5OTkyOTBmMDBmMDkyOTk5OTk5MjkwZjAwMDA5Mjk5OTk5OTI5MDAwMDAwMjIyMjIyMjIyMjAwMDAwMDIyMjIyMjIyMjIwMDAwMDAyMjIyMjIyMjIyMDAwMDAwMjIyMjIyMjIyMjAwMDAwMDIyMjIyMjIyMjIwMDAwZjAyMjIyMjIyMjIyMGYwMGYwMjIyMjIyMjIyMjBmMDBmMDIyMjIyMjIyMjIwZjAwMDAyMjIyMjIyMjIyMDAwMDAwMDAwMDAwMDAwMDAw",
+        "displayName": "Car-Drive-Up"
+    },
+    "anim4": {
+        "namespace": "myAnimations",
+        "id": "anim4",
+        "mimeType": "application/mkcd-animation",
+        "data": "OTYwMDEwMDAxMDAwMDIwMDAwMDAwMDAwMDAwMDAwMDAwMDIwMjIyMjIyMjIwMjAwMDAyZjIyMjIyMjIyZjIwMDAwMmYyMjIyMjIyMmYyMDAwMDJmMjIyMjIyMjJmMjAwMDAyMDIyMjIyMjIyMDIwMDAwMjAyMjIyMjIyMjAyMDAwMDIwMjIyMjIyMjIwMjAwMDAyMDIyMjIyMjIyMDIwMDAwMjAyMjIyMjIyMjAyMDAwMDIwOTk5OTk5OTkwMjAwMDAyZjk5OTk5OTk5ZjIwMDAwMmY5OTk5OTk5OWYyMDAwMDJmMjIyMjIyMjJmMjAwMDA1MDIxMjIyMjEyMDUwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAyMjIyMjIyMjIyMDAwMGYwMjIyMjIyMjIyMjBmMDBmMDIyMjIyMjIyMjIwZjAwZjAyMjIyMjIyMjIyMGYwMDAwMjIyMjIyMjIyMjAwMDAwMDIyMjIyMjIyMjIwMDAwMDAyMjIyMjIyMjIyMDAwMDAwMjIyMjIyMjIyMjAwMDAwMDIyMjIyMjIyMjIwMDAwMDA5Mjk5OTk5OTI5MDAwMGYwOTI5OTk5OTkyOTBmMDBmMDkyOTk5OTk5MjkwZjAwZjAyMjIyMjIyMjIyMGYwMDAwMTUyMjIyMjI1MTAwMDAwMDAwMDAwMDAwMDAwMDAw",
+        "displayName": "Car-Drive-Down"
+    },
+    "anim1": {
+        "namespace": "myAnimations",
+        "id": "anim1",
+        "mimeType": "application/mkcd-animation",
+        "data": "OTYwMDEwMDAxMDAwMDIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAyMjIyMjIyMjAyMDAwMDIwOTk5OTkyOTkwMjAwMDAyMDk5OTk5Mjk5MjkwMDAwMjA5OTk5OTI5OTk5MjIwMDIwOTk5OTkyOTk5OTI5MDAyMDk5OTk5Mjk5OTkyOTAwMjAyMjIyMjIyMjIyMjIwMDIwMmYyMmYyMjIyMjIyMDAyMDIyMjIyMjIyMjIxMjAwMjAyMjIyMjIyMjIyNTIwMDIyMjIyMjIyMjIyMjIyMDJmMmZmMDAwMDAwZjBmZjAyZjBmYjAwMDAwMGYwZmIwMGYwZmYwMDAwMDBmMGZmMDAwMDAwMDAwMDAwMDAwMDAwMDAyMjIyMjIyMjAyMDAwMDIwOTk5OTkyOTkwMjAwMDAyMDk5OTk5Mjk5MjkwMDAwMjA5OTk5OTI5OTk5MjIwMDIwOTk5OTkyOTk5OTI5MDAyMDk5OTk5Mjk5OTkyOTAwMjAyMjIyMjIyMjIyMjIwMDIwMmYyMmYyMjIyMjIyMDAyMDIyMjIyMjIyMjIxMjAwMjAyMjIyMjIyMjIyNTIwMDIyMjIyMjIyMjIyMjIyMDJmMmZmMDAwMDAwZjBmZjAyZjBmYjAwMDAwMGYwZmIwMGYwZmIwMDAwMDBmMGZiMDBmMGZmMDAwMDAwZjBmZjAw",
+        "displayName": "Car-Drive-Right"
+    },
+    "song1": {
+        "data": "0078000408020106001c00010a006400f40164000004000000000000000000000000000000000208000400080003202427",
+        "mimeType": "application/mkcd-song",
+        "displayName": "meinLied",
+        "namespace": "mySongs."
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
