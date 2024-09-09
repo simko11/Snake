@@ -1,7 +1,7 @@
  
 
 
-> Diese Seite bei [https://simko11.github.io/snake/](https://simko11.github.io/snake/) öffnen
+> Diese Seite bei [https://simko11.github.io/Snake/](https://simko11.github.io/Snake/) öffnen
 
 ## Als Erweiterung verwenden
 
